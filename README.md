@@ -334,10 +334,6 @@ scikit-learn
 
 📧 Email: adityakasera678@gmail.com
 
-🔗 LinkedIn: *(Add Your Profile)*
-
-💻 GitHub: *(Add Your GitHub Profile)*
-
 ---
 
 ## ⭐ If you found this project useful, don't forget to Star the repository!
